@@ -42,9 +42,18 @@
 //     console.log("fruta da vez", fruta);
 // } //saida: // fruta da vez: uva // fruta da vez: pera //fruta da vez: maçã 
 
-let j = 0;
-while (j < 3) {
-    console.log("Valor de j:", j);
-    j++; // Incrementa (j = j + 1)
+// let j = 0;
+// while (j < 3) {
+//     console.log("Valor de j:", j);
+//     j++; // Incrementa (j = j + 1)
+// }
+// // Saída: // Valor de j: 0 // Valor de j: 1 // Valor de j: 2
+
+let contador = 10;
+
+while (contador >= 0) {
+    console.log("Contagem:", contador);
+    contador--; // Subtrai 1
 }
-// Saída: // Valor de j: 0 // Valor de j: 1 // Valor de j: 2
+
+console.log("DECOLAR!");
