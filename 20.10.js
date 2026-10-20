@@ -49,11 +49,25 @@
 // }
 // // Saída: // Valor de j: 0 // Valor de j: 1 // Valor de j: 2
 
-let contador = 10;
+// let contador = 10;
 
-while (contador >= 0) {
-    console.log("Contagem:", contador);
-    contador--; // Subtrai 1
-}
+// while (contador >= 0) {
+//     console.log("Contagem:", contador);
+//     contador--; // Subtrai 1
+// }
 
-console.log("DECOLAR!");
+// console.log("DECOLAR!");
+
+// map() → Transforma elementos
+// 
+
+// const comidas = [ "banana", "maçã", "uva", "limão", "abobora", "beterraba", "rabanete"]
+// comidas.map
+// const frutas = ["banana", "maçã", "uva", "limão"]
+// const legumes = ["abobora", "beterraba", "rabanete"]
+
+
+const salario = [ 1200, 50, 100, 1350, 300, 1450,]
+salario.filter 
+const salarioAlto = salario.fill = 
+const salarioBaixo = salario.filter = 
