@@ -17,7 +17,34 @@
 
 // console.log("Saldo Final:", saldo) // Saída: 65
 
-const idade = 20 // usando Operador ternario 
-const mensagem = idade > 18 ? 'pode' : 'nao'
-console.log(mensagem) // saida: 'pode'
+// const idade = 20 // usando Operador ternario 
+// const mensagem = idade > 18 ? 'pode' : 'nao'
+// console.log(mensagem) // saida: 'pode'
 
+// const color = 'vermelho';
+
+// switch (color) {
+//     case 'vermelho':
+//         console.log('Pare');
+//         break;
+
+//     case 'amarelo':
+//         console.log('Atenção');
+//         break;
+
+//     case 'verde':
+//         console.log('Siga');
+//         break;
+// }
+
+// const fruta = ['uva', 'pera', 'maçã']
+// for (const fruta of frutas) {
+//     console.log("fruta da vez", fruta);
+// } //saida: // fruta da vez: uva // fruta da vez: pera //fruta da vez: maçã 
+
+let j = 0;
+while (j < 3) {
+    console.log("Valor de j:", j);
+    j++; // Incrementa (j = j + 1)
+}
+// Saída: // Valor de j: 0 // Valor de j: 1 // Valor de j: 2
