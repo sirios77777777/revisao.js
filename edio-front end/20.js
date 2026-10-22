@@ -67,7 +67,7 @@
 // const legumes = ["abobora", "beterraba", "rabanete"]
 
 
-const salario = [ 1200, 50, 100, 1350, 300, 1450,]
-salario.filter 
-const salarioAlto = salario.fill = 
-const salarioBaixo = salario.filter = 
+// const salario = [ 1200, 50, 100, 1350, 300, 1450,]
+// salario.filter 
+// const salarioAlto = salario.fill = 
+// const salarioBaixo = salario.filter = 
